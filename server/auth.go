@@ -30,6 +30,7 @@ var (
 	// Assume watcharr user if none of these...
 	JELLYFIN_USER UserType = 1
 	PLEX_USER     UserType = 2
+	OIDC_USER     UserType = 3
 )
 
 // User Perms
